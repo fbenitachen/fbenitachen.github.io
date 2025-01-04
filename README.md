@@ -1,1 +1,2 @@
-My Documentation
+# Documentation
+Documentation of mine
